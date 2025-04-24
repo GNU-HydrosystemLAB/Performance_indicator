@@ -29,7 +29,7 @@
 
 ## 📥 다운로드
 
-- 🔗 **[모델 다운로드](https://drive.google.com/your-model-link](https://drive.google.com/file/d/1hQzI-rVq_Br3iA5lejnrL-r_7RyDUkZO/view?usp=drive_link)**  
+- 🔗 **[모델 다운로드](https://drive.google.com/file/d/1UdO8GioxjEhIxPFrlbxj2YyO_5R40N91/view?usp=drive_link)**
 - 🔗 **[테스트에 사용된 가상환경(Conda) 다운로드](https://drive.google.com/file/d/1UdO8GioxjEhIxPFrlbxj2YyO_5R40N91/view?usp=drive_link)**
 
 > 위 파일에는 학습된 모델 파일과 가상환경 설치에 필요한 `PPNet101.pt` 와 `Performance.yaml` 파일이 포함되어 있습니다.
