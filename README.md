@@ -32,4 +32,4 @@
 - 🔗 **[데이터셋 다운로드](https://drive.google.com/file/d/1ek2y7ZldS0WOKKWS6aWuvQdbuKTMbkLL/view?usp=drive_link)**
 - 🔗 **[테스트에 사용된 가상환경(Conda) 다운로드](https://drive.google.com/file/d/1UdO8GioxjEhIxPFrlbxj2YyO_5R40N91/view?usp=drive_link)**
 
-> 위 파일에는 학습된 모델 파일과 가상환경 설치에 필요한 `PPNet101.pt` 와 `Performance.yaml` 파일이 포함되어 있습니다.
+> 위 파일에는 학습된 모델 파일과 데이터셋, 가상환경 설치에 필요한 `PPNet101.pt` 와 'Prediction폴더',`Performance.yaml` 파일이 포함되어 있습니다.
